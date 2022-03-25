@@ -1,0 +1,25 @@
+package com;
+
+import org.springframework.boot.CommandLineRunner;
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.context.annotation.AnnotationConfigApplicationContext;
+
+@SpringBootApplication
+public class DemoTest implements CommandLineRunner{
+	
+	@Override
+	public void run(String...args)throws Exception{
+		System.out.println("Run method called...");
+		AnnotationConfigApplicationContext ac=new AnnotationConfigApplicationContext();
+				ac.scan("com");
+				ac.refresh();
+		Employee emp=(Employee)ac.getBean("employee");
+		// emp.display();
+		System.out.println(emp);
+	}
+	public static void main(String[] args) {
+		SpringApplication.run(DemoTest.class, args);
+	}
+
+}

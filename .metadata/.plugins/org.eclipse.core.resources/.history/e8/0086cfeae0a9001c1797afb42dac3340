@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="SpringMVCWelcome">
+        <wb-resource deploy-path="/" source-path="/src/main/webapp"/>
+        <property name="context-root" value="SpringMVCWelcome"/>
+        <property name="java-output-path" value="/SpringMVCWelcome/build/classes"/>
+    </wb-module>
+</project-modules>

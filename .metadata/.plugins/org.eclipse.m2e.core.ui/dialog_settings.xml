@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="wizardPage">
+		<list key="groupId">
+			<item value="SpringBootWithJSPViewResolver"/>
+			<item value="SpringBootsimpleWebApplication"/>
+			<item value="SpringBootSimpleWebapplication"/>
+			<item value="SpringBootWithJSPWithJPA"/>
+			<item value="SpringBootSimpleWebApp"/>
+			<item value="SpringMVCWithHibernate"/>
+			<item value="simplemvc"/>
+			<item value="SpringMVCWelcome"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="SpringBootWithJSPViewResolver"/>
+			<item value="SpringBootsimpleWebApplication"/>
+			<item value="SpringBootSimpleWebapplication"/>
+			<item value="SpringBootWithJSPWithJPA"/>
+			<item value="SpringBootSimpleWebApp"/>
+			<item value="SpringMVCWithHibernate"/>
+			<item value="simplemvc"/>
+			<item value="SpringMVCWelcome"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\SVHER5744\Desktop\SpringFramework workspace\SpringMVCWelcome"/>
+			<item value="C:\Users\SVHER5744\Desktop\SpringFramework workspace\SpringBootDI"/>
+			<item value="C:\Users\SVHER5744\Desktop\SpringFramework workspace\SpringMVCWithHibernate"/>
+			<item value="C:\Users\SVHER5744\Desktop\SpringFramework workspace\SpringMVCWelcome\pom.xml"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="SpringProject"/>
+			<item value="SpringBootWithJSPResolver"/>
+			<item value="SpringBoot"/>
+			<item value="SpringBootApplication"/>
+			<item value="SpringBootProject"/>
+			<item value="groupid"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="SpringBootWithRest"/>
+			<item value="SpringBootSimpleWeApplication"/>
+			<item value="SpringProject"/>
+			<item value="SpringBootWithJSPWithJPA"/>
+			<item value="SpringBootSimpleWebApplication"/>
+			<item value="SpringBootDI"/>
+			<item value="projects"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+</section>
